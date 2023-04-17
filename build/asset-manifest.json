@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LuisFGarciaN/React-Portfolio/static/css/main.76ee1392.css",
+    "main.js": "/LuisFGarciaN/React-Portfolio/static/js/main.69dd6806.js",
+    "static/media/CV.pdf": "/LuisFGarciaN/React-Portfolio/static/media/CV.975c6c3b54001369db02.pdf",
+    "static/media/me-about.jpeg": "/LuisFGarciaN/React-Portfolio/static/media/me-about.088c18ad924a511d26c0.jpeg",
+    "static/media/mea.jpeg": "/LuisFGarciaN/React-Portfolio/static/media/mea.088c18ad924a511d26c0.jpeg",
+    "static/media/background3.jpg": "/LuisFGarciaN/React-Portfolio/static/media/background3.4e386413ad68ccbd0dff.jpg",
+    "static/media/portfolio1.png": "/LuisFGarciaN/React-Portfolio/static/media/portfolio1.932a1b4caf9523995095.png",
+    "static/media/portfolio2.png": "/LuisFGarciaN/React-Portfolio/static/media/portfolio2.932a1b4caf9523995095.png",
+    "static/media/portfolio3.png": "/LuisFGarciaN/React-Portfolio/static/media/portfolio3.932a1b4caf9523995095.png",
+    "static/media/portfolio4.png": "/LuisFGarciaN/React-Portfolio/static/media/portfolio4.932a1b4caf9523995095.png",
+    "static/media/portfolio5.png": "/LuisFGarciaN/React-Portfolio/static/media/portfolio5.932a1b4caf9523995095.png",
+    "static/media/portfolio6.png": "/LuisFGarciaN/React-Portfolio/static/media/portfolio6.932a1b4caf9523995095.png",
+    "index.html": "/LuisFGarciaN/React-Portfolio/index.html",
+    "main.76ee1392.css.map": "/LuisFGarciaN/React-Portfolio/static/css/main.76ee1392.css.map",
+    "main.69dd6806.js.map": "/LuisFGarciaN/React-Portfolio/static/js/main.69dd6806.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ee1392.css",
+    "static/js/main.69dd6806.js"
+  ]
+}
